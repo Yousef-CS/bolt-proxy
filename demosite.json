@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://ultimate-bolt-person-txu6.bolt.host"
+    }
+  ]
+}
